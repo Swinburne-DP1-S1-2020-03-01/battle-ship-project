@@ -1,6 +1,15 @@
 ﻿using System.Collections.Generic;
 using SwinGameSDK;
 
+/*  <summary>
+    This file contains all of the code to load all of the resources required such as:
+    -Fonts, Images, Sounds, Music
+    -Display loading screens
+    -Play the swingame intro
+
+    It also contains code to release these resources/free them up when they are no longer needed
+    <summary>*/ 
+
 public static partial class GameResources
 {
     private static void LoadFonts()

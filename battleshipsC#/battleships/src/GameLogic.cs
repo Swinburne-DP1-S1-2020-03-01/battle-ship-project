@@ -1,4 +1,7 @@
-﻿
+﻿/*
+    This file contains all the logic for the default game loop.
+    This file is run first.
+*/
 internal static partial class GameLogic
 {
     public static void Main()
